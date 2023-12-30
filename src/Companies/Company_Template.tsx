@@ -15,7 +15,7 @@ const Company_Template = () => {
           left: "20%",
         }}
       >
-        <Typography>Company Admins</Typography>
+        <Typography>Company</Typography>
       </Box>
       <Box sx={{ display: "flex", justifyContent: "center" }}>
         <Buttons />
