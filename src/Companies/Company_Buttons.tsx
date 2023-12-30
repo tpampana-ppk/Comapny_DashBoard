@@ -11,21 +11,21 @@ const Buttons = () => {
         <Grid item xs={12} sm={6} md={4}>
           <Link to={`/admin/companies/compadd`}>
             <Button fullWidth variant="contained">
-              Add Admin
+              Add Company
             </Button>
           </Link>
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
           <Link to={`/admin/companies/compadd`}>
             <Button fullWidth variant="contained">
-              Edit Admin
+              Edit Company
             </Button>
           </Link>
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
           <Link to={`/admin/companies/compdelete`}>
             <Button fullWidth variant="contained">
-              Delete Admin
+              Delete Company
             </Button>
           </Link>
         </Grid>
